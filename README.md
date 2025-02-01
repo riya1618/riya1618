@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya1618&label=Profile%20views&color=0e75b6&style=flat" alt="riya1618" /> </p>
 
-- 🌱 I’m currently learning **React,Node.js,Express,MongoDB**
+- 🌱 I’m currently learning **Hibernate,Spring,SpringBoot,MicroServices**
 
-- I'm currently working on MERN stack project **HomelyHub**
+- I'm currently working on Java Full stack project **E-Commerce**
 
-- 💬 Ask me about **Web Developement**
+- 💬 Ask me about **Java development**
 
 - 📫 How to reach me **riyasandeep16@gmail.com**
 
